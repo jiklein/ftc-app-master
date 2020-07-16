@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/JeromeyKlein/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/drawable/button_shape.xml",
+        "source": "/Users/JeromeyKlein/.android/build-cache/a5a260b28dc2bee5c5b13a26ae66ef2a2a275bb9/output/res/drawable/button_shape.xml"
+    },
+    {
+        "merged": "/Users/JeromeyKlein/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/drawable/black_border.xml",
+        "source": "/Users/JeromeyKlein/.android/build-cache/11f78a2ade38956bb16575856d542b6576f2b6eb/output/res/drawable/black_border.xml"
+    },
+    {
+        "merged": "/Users/JeromeyKlein/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/drawable/icon_robotcontroller.png",
+        "source": "/Users/JeromeyKlein/.android/build-cache/66ff5fb50dbc098c15b8cac7cdf01185e70df2c9/output/res/drawable/icon_robotcontroller.png"
+    },
+    {
+        "merged": "/Users/JeromeyKlein/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/drawable/feedback_shape_orange.xml",
+        "source": "/Users/JeromeyKlein/.android/build-cache/4247f3efe29259474a7fd81202aecc39a5874333/output/res/drawable/feedback_shape_orange.xml"
+    },
+    {
+        "merged": "/Users/JeromeyKlein/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/drawable/icon_menu.png",
+        "source": "/Users/JeromeyKlein/.android/build-cache/66ff5fb50dbc098c15b8cac7cdf01185e70df2c9/output/res/drawable/icon_menu.png"
+    }
+]

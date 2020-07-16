@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/JeromeyKlein/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_shape.xml",
+        "source": "/Users/JeromeyKlein/.android/build-cache/a5a260b28dc2bee5c5b13a26ae66ef2a2a275bb9/output/res/drawable-hdpi-v4/button_shape.xml"
+    },
+    {
+        "merged": "/Users/JeromeyKlein/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/JeromeyKlein/Desktop/ftc_app-master/FtcRobotController/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

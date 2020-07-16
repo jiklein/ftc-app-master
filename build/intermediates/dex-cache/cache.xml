@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/JeromeyKlein/.android/build-cache/4247f3efe29259474a7fd81202aecc39a5874333/output/jars/libs/javac.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c576121aac49e547b39aedfb1daa29782db4166c">
+        <dex dex="/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/javac_7e98e4624401c0431d599043051f43d105d293e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JeromeyKlein/Desktop/ftc_app-master/FtcRobotController/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="63096d280a6d0792ddbe5601216c3bc2bb685e8c">
+        <dex dex="/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/classes_1822eba4da57e7b1dc1bc553fd81b7c8cbd32a7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JeromeyKlein/.android/build-cache/4247f3efe29259474a7fd81202aecc39a5874333/output/jars/libs/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a214d3b1b12e72f4fb0d5d5d8d0ec43c96de2b5">
+        <dex dex="/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_8bdee837de6017b447035de6b962e0dbbf786f53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JeromeyKlein/.android/build-cache/11f78a2ade38956bb16575856d542b6576f2b6eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="75bdc736b17d8f39d246beac357cb3a0e007fcfa">
+        <dex dex="/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/classes_6cdb3b7157721532ab6d1b7571a8b1260524412a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JeromeyKlein/.android/build-cache/4247f3efe29259474a7fd81202aecc39a5874333/output/jars/libs/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e118dd0900e4a18fb928ebb8df2d9fbda78f2b5d">
+        <dex dex="/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/gson-2.8.0_f553dfbad1414d1239b09d9f95f1b41ccdc172e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JeromeyKlein/.android/build-cache/4247f3efe29259474a7fd81202aecc39a5874333/output/jars/libs/gson-extras-0.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b30c2655badcc7ce97f84e49f777b7dd154bad57">
+        <dex dex="/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/gson-extras-0.2.1_0353dc42b67b52836c0240e75b3dd0f9bf00012b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JeromeyKlein/.android/build-cache/780dc4c36bb062823511c8747eaa6eebe7080674/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="96cbbea552fe9bf3c56540c7e4912eb5cf72301e">
+        <dex dex="/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/classes_073b8b9d8bad2c8ebfb3a9b0f3025a930ad451e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JeromeyKlein/.android/build-cache/a5a260b28dc2bee5c5b13a26ae66ef2a2a275bb9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2abba0621a5319232804767218216568263aa37">
+        <dex dex="/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/classes_7e01b9b27c8331a312e87ac1fc7593ec32516299.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JeromeyKlein/.android/build-cache/66ff5fb50dbc098c15b8cac7cdf01185e70df2c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9da82f9829b6cafb8407989729481220ca06c905">
+        <dex dex="/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/classes_f6f9858182aaa4d5c61f35a35c2ea95dbf72882e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JeromeyKlein/.android/build-cache/4247f3efe29259474a7fd81202aecc39a5874333/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e259d01a014f392930432e85cc1ac9bf807a92df">
+        <dex dex="/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/classes_4b083df847aafc2aafea3a1fb2d03684ca942506.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JeromeyKlein/.android/build-cache/4247f3efe29259474a7fd81202aecc39a5874333/output/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="91b46366eb9f8203073ee2935087c097c888c0ed">
+        <dex dex="/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/Vuforia_2007312adcf3c94c0caf03b2b27aea99c5e9f2ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JeromeyKlein/.android/build-cache/53fb5eb0e01dc875cdcbc3dbb934cf6fba0b24ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/classes_17741a4bf3a1bce63e681edb0acd41d6c87efb67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JeromeyKlein/.android/build-cache/88b2926fea11919be9260b296bc66d056acbea71/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/classes_0ffc8984aec57c3bad66724d374cafd134bd8023.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/Users/JeromeyKlein/Desktop/ftc_app-master/FtcRobotController/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/Users/JeromeyKlein/.android/build-cache/4247f3efe29259474a7fd81202aecc39a5874333/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 187
+                    }
+                }
+            }
+        ]
+    }
+]

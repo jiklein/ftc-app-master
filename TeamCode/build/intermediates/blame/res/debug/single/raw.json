@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/warningmessage.wav",
+        "source": "/Users/JeromeyKlein/.android/build-cache/a5a260b28dc2bee5c5b13a26ae66ef2a2a275bb9/output/res/raw/warningmessage.wav"
+    },
+    {
+        "merged": "/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/errormessage.wav",
+        "source": "/Users/JeromeyKlein/.android/build-cache/a5a260b28dc2bee5c5b13a26ae66ef2a2a275bb9/output/res/raw/errormessage.wav"
+    },
+    {
+        "merged": "/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/cube_mesh_fragment_shader.glsl",
+        "source": "/Users/JeromeyKlein/.android/build-cache/4247f3efe29259474a7fd81202aecc39a5874333/output/res/raw/cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/nxtstartupsound.wav",
+        "source": "/Users/JeromeyKlein/.android/build-cache/a5a260b28dc2bee5c5b13a26ae66ef2a2a275bb9/output/res/raw/nxtstartupsound.wav"
+    },
+    {
+        "merged": "/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/simple_vertex_shader.glsl",
+        "source": "/Users/JeromeyKlein/.android/build-cache/4247f3efe29259474a7fd81202aecc39a5874333/output/res/raw/simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/chimedisconnect.wav",
+        "source": "/Users/JeromeyKlein/.android/build-cache/a5a260b28dc2bee5c5b13a26ae66ef2a2a275bb9/output/res/raw/chimedisconnect.wav"
+    },
+    {
+        "merged": "/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/color_fragment_shader.glsl",
+        "source": "/Users/JeromeyKlein/.android/build-cache/4247f3efe29259474a7fd81202aecc39a5874333/output/res/raw/color_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/chimeconnect.wav",
+        "source": "/Users/JeromeyKlein/.android/build-cache/a5a260b28dc2bee5c5b13a26ae66ef2a2a275bb9/output/res/raw/chimeconnect.wav"
+    },
+    {
+        "merged": "/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/texture_vertex_shader.glsl",
+        "source": "/Users/JeromeyKlein/.android/build-cache/4247f3efe29259474a7fd81202aecc39a5874333/output/res/raw/texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/texture_fragment_shader.glsl",
+        "source": "/Users/JeromeyKlein/.android/build-cache/4247f3efe29259474a7fd81202aecc39a5874333/output/res/raw/texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/JeromeyKlein/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/cube_mesh_vertex_shader.glsl",
+        "source": "/Users/JeromeyKlein/.android/build-cache/4247f3efe29259474a7fd81202aecc39a5874333/output/res/raw/cube_mesh_vertex_shader.glsl"
+    }
+]
